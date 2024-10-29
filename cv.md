@@ -1,6 +1,8 @@
 # Artsiom Luksha
 **Front-End Developer**
 
+<img src="photo.jpg" alt="Artsiom Luksha Photo" width="150">
+
 Phone: +48 666 706 439  
 Email: [luksaartem332@gmail.com](mailto:luksaartem332@gmail.com)  
 [LinkedIn](https://www.linkedin.com/in/artyom-luksha-06389b1a4/) | [GitHub](https://github.com/AirDrop94)
@@ -16,12 +18,15 @@ I am an entry-level front-end developer with several personal projects in my por
 
 ### Food Project:
 This project is built using pure JavaScript, following modern coding standards and practices. It utilizes Webpack, Babel, and Bootstrap, with all components organized into modules for better structure and project management.
+Link: [GitHub](https://github.com/AirDrop94/Food-project)
 
 ### Employees Database:
 This JavaScript and React-based application allows employers to efficiently track employee salary calculations and add various bonuses. It includes features for editing employee data, as well as adding or removing employees. I plan to rewrite this project in TypeScript.
+Link: [GitHub](https://github.com/AirDrop94/Employees-Accounting-App)
 
 ### Marvel Project:
 An online comic book store featuring a collection of Marvel comics. This project integrates the Marvel API for comic searches and uses additional libraries like Yup for form validation and React-Helmet for managing metadata. The code was continuously improved and optimized using modern development approaches.
+Link: [GitHub](https://github.com/AirDrop94/Marvell-Project/tree/main)
 
 ---
 
