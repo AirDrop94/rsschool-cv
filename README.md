@@ -1,1 +1,1 @@
-https://AirDrop94.github.io/rsschool-cv/cv.md
+https://airdrop94.github.io/rsschool-cv/cv.md
