@@ -1,1 +1,1 @@
-# rsschool-cv
+https://airdrop94.github.io/rsschool-cv/
