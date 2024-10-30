@@ -1,7 +1,7 @@
 # Artsiom Luksha
 **Front-End Developer**
 
-<img src="photo.jpg" alt="Artsiom Luksha Photo" width="150">
+<img src="./pictures/photo.jpg" alt="Artsiom Luksha Photo" width="150">
 
 Phone: +48 666 706 439  
 Email: [luksaartem332@gmail.com](mailto:luksaartem332@gmail.com)  
