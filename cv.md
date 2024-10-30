@@ -20,7 +20,7 @@ I am an entry-level front-end developer with several personal projects in my por
 This project is built using pure JavaScript, following modern coding standards and practices. It utilizes Webpack, Babel, and Bootstrap, with all components organized into modules for better structure and project management.
 Link: [GitHub](https://github.com/AirDrop94/Food-project)
 
-### Employees Database:
+### Employees Accounting App:
 This JavaScript and React-based application allows employers to efficiently track employee salary calculations and add various bonuses. It includes features for editing employee data, as well as adding or removing employees. I plan to rewrite this project in TypeScript.
 Link: [GitHub](https://github.com/AirDrop94/Employees-Accounting-App)
 
