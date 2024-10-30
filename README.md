@@ -1,1 +1,1 @@
-[# rsschool-cv](https://github.com/AirDrop94/rsschool-cv/blob/gh-pages/cv.md)
+[# rsschool-cv](https://AirDrop94.github.io/rsschool-cv/cv)
