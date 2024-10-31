@@ -5,3 +5,8 @@ span {
     display: block;
     text-align: justify;
 }
+.code-img {
+    max-width: 100%; 
+    width: auto; 
+    height: auto;
+}
